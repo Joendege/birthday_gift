@@ -1,7 +1,7 @@
 # Birthday Gift Site
 ---
 ### Project Overview
-This project aims at creating a eye catching birthday site using HTML and CSS.
+This project aims at creating an eye catching birthday site using HTML and CSS.
 
 ### Tools
 1. Visual Studio Code
